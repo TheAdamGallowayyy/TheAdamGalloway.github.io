@@ -1,0 +1,49 @@
+body {
+	font-family:Courier, monospace;
+	color:yellow;
+	margin:5%;
+}
+h1{
+	font-family:Monaco, monospace;
+	color:white;
+}
+h2 {
+	font-family:Monaco, monospace;
+	color:white;
+}
+a {
+	text-decoration: none;
+	color:blue;
+	margin:3px;
+}
+.float {
+	display: inline-block;
+	width:500px;
+	margin:20px;
+}
+.float img{
+	max-width: 150px;
+	max-height: 150px;
+}
+ul {
+	vertical-align: left;
+	text-align: left;
+	padding-left: 45%;
+}
+
+.box {
+	max-height: 300px;
+	max-width: 300px;
+}
+
+.footer {
+	font-size: 10px;
+}
+
+.footer img {
+	height: 50px;
+}
+.logo {
+	align: center;
+	width: 75%;
+}

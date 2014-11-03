@@ -1,0 +1,1 @@
+{"c2dictionary":true,"data":{"word1":"QWERTY","word2":"HELLO","word3":"TEST","word4":"GENIUS","word5":"ADAM","word6":"MAD","word7":"WHOAMATE","word8":"YOLOSWAG"}}
